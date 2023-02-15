@@ -1,6 +1,8 @@
 # Animation
 This project relates to the assignments of CSC2549 Fall 2019 @University of Toronto. 
-{https://github.com/otmanon/CSC2549-physics-based-animation}
+https://github.com/otmanon/CSC2549-physics-based-animation
+
+Demo Video please refer to https://youtu.be/Qjoo8jHDe3o
 
 A1 2D Mass-Spring Simulation please refer to https://github.com/dilevin/CSC417-a1-mass-spring-1d
 
